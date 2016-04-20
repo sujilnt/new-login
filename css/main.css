@@ -1,0 +1,109 @@
+*{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+	 font-family: 'Alegreya Sans';
+	 margin:0px;
+	 padding:0px;
+}
+
+.indexing{
+	z-index: 30;
+}
+body{
+	background-image: url(../images/bg11.jpg);
+	background-repeat:no-repeat;
+    background-size:initial;
+    background-size:  
+}
+.logo-set{
+   margin-top:30px;
+   margin-bottom: 50px;
+}
+.box-model{
+	background: white;
+	padding: 25px 40px 20px 40px;
+	color:grey;
+}
+input{
+		margin-bottom: 2px;
+}
+button{
+	border:0;
+	margin:0;
+	
+}
+.resize-button{
+	width:99%;
+	height: 45px;
+	background:#03645C
+}
+a.center-link{
+	color:#777;
+    font-size: 22px;
+	padding-left:18%; 
+	
+}
+a:visited{
+	color:#777;
+}
+a.center-block{
+	padding-top: 40px;
+}
+input[type="password"]{
+	font:small-caption;
+	font-size:20px;
+	width: 100%;
+
+
+}
+input[type="email"]{
+	font:small-caption;
+	font-size:20px;
+	width:100%;
+
+}
+input[type="submit"]{
+	text-align: center;
+}
+a.new-user{
+margin-top: 70px;
+font-size: 25px;
+text-decoration: underline;
+text-align: center;
+margin-bottom: 20px;
+color:black;
+}
+ 
+a:hover{
+	text-decoration: none;
+}
+*{
+	font-size: 15px;
+}
+p{
+	font-size:20px;
+	font-family:Alegreya;
+	
+	margin-bottom:0px;
+}
+.password{
+	display:inline-flex;
+}
+
+.size_font{
+  font-size: 28px;
+  margin-left: 0px;
+  
+   
+}
+.size_font_margin{
+margin-top: 10px;
+font-size: 22px;
+}
+html, body {
+  overflow-x:hidden
+}
+.new-user{
+	color:black;
+}
